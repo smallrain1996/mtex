@@ -71,7 +71,7 @@ EinsteinSum(a,-1,b,-1)
 % As a final example we consider the linear compressibility in a certain
 % direction |v| which can be computed by the formula
 %
-% $$ c = \sum_{i,j,k} S_{ijkk} v_i v_j $$
+% $$ c=\sum_{i,j,k}{\mathrm{C}_{ijkk}v_iv_j} $$
 %
 % where $C = S^{-1}$ is the inverse of the comcompliance thensor, i.e. the
 % stiffness tensor
